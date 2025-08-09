@@ -77,7 +77,7 @@
 
 ## 🪴 Практика и стажировка
 
-
+https://github.com/artemev-artem/Artem_AB/blob/main/artem_bukata-nyrogpt.png
 <br>
 
 ## 🎒 Образование
