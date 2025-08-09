@@ -81,8 +81,8 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/artem_bukata-nyrogpt.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://github.com/artemev-artem/Artem_AB/blob/main/artem_bukata-nyrogpt.png)
-[<img src="/artem_bukata-nyrogpt.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://github.com/artemev-artem/Artem_AB/blob/main/artem_bukata-nyrogpt.png)
+[<img src="/0b9d15e8448.png" width="280px" hspace="10px">](https://github.com/artemev-artem/Artem_AB/blob/main/0b9d15e8448.png)
+[<img src="/01c0ee26f7d " width="280px" hspace="10px">](https://github.com/artemev-artem/Artem_AB/blob/main/01c0ee26f7d%20(2).png)
 
 
 <br>
