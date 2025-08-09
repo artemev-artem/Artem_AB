@@ -76,7 +76,7 @@
 <br>
 
 ## 🪴 Практика и стажировка
-<img src="/certificate_.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://github.com/artemev-artem/Artem_AB/blob/main/artem_bukata-nyrogpt.png)
+<img src="/artem_bukata-nyrogpt.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">(https://github.com/artemev-artem/Artem_AB/blob/main/artem_bukata-nyrogpt.png)
 https://github.com/artemev-artem/Artem_AB/blob/main/artem_bukata-nyrogpt.png
 <br>
 
